@@ -1,0 +1,14 @@
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\HelloWorld.Services.dll
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\HelloWorld.Services.pdb
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\HelloWorld.Model.dll
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\HelloWorld.Model.pdb
+G:\prabha\Hello World\HelloWorld.Services\obj\Debug\HelloWorld.Services.csprojAssemblyReference.cache
+G:\prabha\Hello World\HelloWorld.Services\obj\Debug\HelloWorld.Services.csproj.CoreCompileInputs.cache
+G:\prabha\Hello World\HelloWorld.Services\obj\Debug\HelloWorld.Services.csproj.CopyComplete
+G:\prabha\Hello World\HelloWorld.Services\obj\Debug\HelloWorld.Services.dll
+G:\prabha\Hello World\HelloWorld.Services\obj\Debug\HelloWorld.Services.pdb
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\HelloWorld.Services.dll.config
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\EntityFramework.dll
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\EntityFramework.SqlServer.dll
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\EntityFramework.xml
+G:\prabha\Hello World\HelloWorld.Services\bin\Debug\EntityFramework.SqlServer.xml

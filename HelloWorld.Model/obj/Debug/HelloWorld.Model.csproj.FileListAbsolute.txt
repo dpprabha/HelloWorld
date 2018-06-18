@@ -1,0 +1,6 @@
+G:\prabha\Hello World\HelloWorld.Model\bin\Debug\HelloWorld.Model.dll
+G:\prabha\Hello World\HelloWorld.Model\bin\Debug\HelloWorld.Model.pdb
+G:\prabha\Hello World\HelloWorld.Model\obj\Debug\HelloWorld.Model.csproj.CoreCompileInputs.cache
+G:\prabha\Hello World\HelloWorld.Model\obj\Debug\HelloWorld.Model.dll
+G:\prabha\Hello World\HelloWorld.Model\obj\Debug\HelloWorld.Model.pdb
+G:\prabha\Hello World\HelloWorld.Model\obj\Debug\HelloWorld.Model.csprojAssemblyReference.cache
